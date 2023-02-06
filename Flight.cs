@@ -59,7 +59,7 @@ namespace Flight {
         CancellationTokenSource tokenSource = null;
         private int repetitions = 0;
 
-        // flags
+        //flags
         public bool multipleHatching { get; set; }
         private bool _Connected;
         private bool _Marking;
