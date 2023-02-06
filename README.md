@@ -5,10 +5,8 @@ Flight Laser is an open-source template that allows to integrate laser marking t
     <img src="Resources/scr2.png" width=75% height=75%>
 </div>
 <br>
-The program has been expanded to include an implementation of on-the-fly technology, which makes it possible to produce laser processing geometries with size greater than field of view of the scanning lens. The aim of this project was to create an application, that extends the existing Flight software with additional functionalities, allowing the optical head, linear table and laser to be controlled within a single application. The program was created in C# programming language, based on the manufacturers documentation. 
-
-Table control module and control panel associated with it, implemented several basic movement functions, such as: Move Absolute or Move Relative. 
-<br>
+The program has been expanded to include an implementation of on-the-fly technology, which makes it possible to produce laser processing geometries with size greater than field of view of the scanning lens. The aim of this project was to create an application, that extends the existing Flight software with additional functionalities, allowing the optical head, linear table and laser to be controlled within a single application. The program was created in C# programming language, based on the manufacturers documentation. Table control module and control panel associated with it, implemented several basic movement functions, such as: Move Absolute or Move Relative. 
+<br><br>
 <div align="center">
     <img src="Resources/scr1.png" width=75% height=75%>
 </div>
