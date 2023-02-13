@@ -14,7 +14,7 @@ The program has been expanded to include an implementation of on-the-fly technol
 A class responsible for communicating with the laser using the RS-232 serial communication protocol has also been created. 
 <br><br>
 <div align="center">
-    <img src="Resources/scr3.png" width=90% height=90%>
+    <img src="Resources/scr3.png" width=90% height= 90%>
 </div>
 <br>
 The algorithm used for controlling the deflection was based on compensating the laser beam depending on the current position of the table. In one of the solutions, the position of the table was estimated based on the assumption of its constant movement speed. The second solution used feedback in the form of a signals from encoders that were attached to the table.
